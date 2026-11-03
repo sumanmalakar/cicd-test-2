@@ -1,0 +1,14 @@
+{
+  "name": "simple-express-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple Express server with home, about, and contact endpoints.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
